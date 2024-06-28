@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Rita Alvarez Ruivo
 
 ## About Me
-- 👩‍🎓 PhD in Chemical Engineering with a newfound love for Machine Learning.
-- 👀 I’m interested in applying Machine Learning to Chemistry, especially to organometallic catalysis.
-- 💞️ I’m looking to collaborate on chemistry projects or any other science projects.
+- 👩‍🎓 PhD in Chemical Engineering with a newfound love for Machine Learning
+- 👀 I’m currently seeking a career as a Data Scientist
+- 💞️ I’m looking to collaborate in ML chemistry projects (especially organometallic catalysis) or any other science projects
 
 
 <!---
