@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Rita Alvarez Ruivo
+# Hi there! 👋 
+# I'm Rita Alvarez Ruivo
 
 ## About Me
 - 👩‍🎓 PhD in Chemical Engineering with a newfound love for Machine Learning.
